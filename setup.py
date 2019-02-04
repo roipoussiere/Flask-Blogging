@@ -49,7 +49,7 @@ def get_requirements(suffix=''):
 setup(
     name='Flask-Blogging',
     version=version,
-    url='https://github.com/gouthambs/Flask-Blogging',
+    url='https://github.com/roipoussiere/Flask-Blogging',
     license='MIT',
     author='Gouthaman Balaraman',
     author_email='gouthaman.balaraman@gmail.com',
