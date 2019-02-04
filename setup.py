@@ -47,9 +47,9 @@ def get_requirements(suffix=''):
     return rv
 
 setup(
-    name='Flask-Blogging',
+    name='Flask-Blogging-EIC',
     version=version,
-    url='https://github.com/roipoussiere/Flask-Blogging-EIC',
+    url='https://github.com/roipoussiere/Flask-Blogging',
     license='MIT',
     author='Gouthaman Balaraman',
     author_email='gouthaman.balaraman@gmail.com',
